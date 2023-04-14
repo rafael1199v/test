@@ -1,3 +1,4 @@
-# test
--- Hola como estas, estoy modificando el archivo readme
+# Muestra finita
+* Ciclo de vida
+* Ejercicio 2
 
